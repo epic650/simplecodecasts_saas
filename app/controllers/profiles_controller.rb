@@ -1,0 +1,3 @@
+class ProfilersController < ApplicationController
+    
+end 
